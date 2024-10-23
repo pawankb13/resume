@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  23 OCT 2024 20:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  23 OCT 2024 20:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -503,6 +503,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 112.
+ (./resume1.out) (./resume1.out)
 \@outlinefile=\write4
 \openout4 = `resume1.out'.
 
@@ -559,7 +560,7 @@ LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 23
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )) (./sections/certifications.tex) (./sections/responsibilities.tex
-Overfull \hbox (42.09004pt too wide) in alignment at lines 5--10
+Overfull \hbox (41.72163pt too wide) in alignment at lines 5--10
 [][][][]
  []
 
@@ -574,28 +575,22 @@ Underfull \hbox (badness 10000) in alignment at lines 5--11
  []
 
 ) (./sections/references.tex) [4] (./resume1.aux)
-
-Package rerunfilecheck Warning: File `resume1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume1.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  CF3BBCD4CB75E4FC512625550E67C8BF;1498.
+Package rerunfilecheck Info: File `resume1.out' has not changed.
+(rerunfilecheck)             Checksum: CF3BBCD4CB75E4FC512625550E67C8BF;1498.
  ) 
 Here is how much of TeX's memory you used:
- 22639 strings out of 476025
- 420128 string characters out of 5790017
+ 22657 strings out of 476025
+ 420325 string characters out of 5790017
  1875388 words of memory out of 5000000
- 42642 multiletter control sequences out of 15000+600000
+ 42656 multiletter control sequences out of 15000+600000
  527592 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,9n,104p,498b,693s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resume1.pdf (4 pages, 121918 bytes).
+Output written on resume1.pdf (4 pages, 122870 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 133 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  18 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
