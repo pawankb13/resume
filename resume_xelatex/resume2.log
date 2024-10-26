@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.21)  25 OCT 2024 09:25
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.21)  26 OCT 2024 14:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -885,17 +885,23 @@ Package fancyhdr Warning: \footskip is too small (14.22636pt):
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 22.
 
-Overfull \hbox (3.20001pt too wide) in paragraph at lines 22--40
+Overfull \hbox (3.20001pt too wide) in paragraph at lines 22--42
    [] 
  []
 
-) (./cv-sections/conferences.tex) (./cv-sections/workshops.tex)
+) (./cv-sections/conferences.tex) (./cv-sections/workshops.tex
 
 Package fancyhdr Warning: \footskip is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
-[2] (./cv-sections/acadservices.tex
+[2])
+
+Package fancyhdr Warning: \footskip is too small (14.22636pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[3] (./cv-sections/acadservices.tex
 Overfull \hbox (49.49455pt too wide) in alignment at lines 5--35
 [] [] 
  []
@@ -906,7 +912,7 @@ Package fancyhdr Warning: \footskip is too small (14.22636pt):
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
-[3] (./cv-sections/certifications.tex) (./cv-sections/responsibilities.tex) (./cv-sections/skills.tex
+[4] (./cv-sections/certifications.tex) (./cv-sections/responsibilities.tex) (./cv-sections/skills.tex
 Overfull \hbox (36.14455pt too wide) in alignment at lines 11--28
 [] [] 
  []
@@ -927,13 +933,13 @@ Package fancyhdr Warning: \footskip is too small (14.22636pt):
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
-[4] (./cv-sections/references.tex)
+[5] (./cv-sections/references.tex)
 
 Package fancyhdr Warning: \footskip is too small (14.22636pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
-[5] (./resume2.aux)
+[6] (./resume2.aux)
 Package rerunfilecheck Info: File `resume2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -946,4 +952,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  114i,11n,118p,542b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on resume2.pdf (5 pages).
+Output written on resume2.pdf (6 pages).
