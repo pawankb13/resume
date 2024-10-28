@@ -1,0 +1,37 @@
+name: Copy and Replace Resume PDF
+
+on:
+  push:
+    paths:
+      - "resume_latex/resume.pdf"  # Adjusted path to the resume.pdf file
+
+jobs:
+  copy_pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Resume Repository
+      uses: actions/checkout@v3
+      with:
+        repository: pawankb13/resume
+        path: resume_repo
+
+    - name: Checkout Website Repository
+      uses: actions/checkout@v3
+      with:
+        repository: pawankb13/pawankb13.github.io
+        path: website_repo
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Copy and Replace PDF in Website Repository
+      run: |
+        cp resume_repo/resume_latex/resume1.pdf website_repo/files/resume1.pdf
+
+    - name: Commit and Push Changes
+      working-directory: website_repo
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add files/resume.pdf
+        git commit -m "Replace resume.pdf with latest version"
+        git push
