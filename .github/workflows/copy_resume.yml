@@ -33,5 +33,5 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add files/resume.pdf
-        git commit -m "Replace resume.pdf with latest version"
+        git commit -m "Replace resume1.pdf with latest version"
         git push
