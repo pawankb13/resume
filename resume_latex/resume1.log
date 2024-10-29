@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  28 OCT 2024 13:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  29 OCT 2024 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -522,6 +522,47 @@ LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inpu
  (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
+./sections/heading.tex:13: Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...www.linkedin.com/in/pawankb13}{pawankb13_}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./sections/heading.tex:13: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.13 ...www.linkedin.com/in/pawankb13}{pawankb13_}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./sections/heading.tex:13: Missing } inserted.
+<inserted text> 
+                }
+l.13 ...www.linkedin.com/in/pawankb13}{pawankb13_}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./sections/heading.tex:13: Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...www.linkedin.com/in/pawankb13}{pawankb13_}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 7--15
 
  []
