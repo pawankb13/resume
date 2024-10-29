@@ -30,7 +30,7 @@ jobs:
       # Step 3: Copy updated resume1.pdf from 'resume' to 'pawankb13.github.io'
       - name: Copy resume1.pdf to GitHub Pages repository
         run: |
-          cp resume/resume_latex/resume1.pdf website/files/
+          cp resume/resume_latex/resume1.pdf pawankb13.github.io/files/
 
       # Step 4: Commit and push changes to the 'pawankb13.github.io' repository
       - name: Commit and push changes
