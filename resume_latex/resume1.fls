@@ -981,8 +981,6 @@ INPUT resume1.aux
 INPUT ./resume1.out
 INPUT ./resume1.out
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
