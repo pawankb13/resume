@@ -25,7 +25,7 @@ jobs:
 
       - name: Copy updated resume PDF
         run: |
-          cp resume/resume/pdf_latex/resume1.pdf website/files/resume1.pdf
+          cp resume/resume_latex/resume1.pdf website/files/resume1.pdf
 
       - name: Commit and push changes to pawankb13.github.io
         working-directory: website
