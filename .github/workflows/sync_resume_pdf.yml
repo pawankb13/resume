@@ -1,9 +1,9 @@
-name: Update Resume 
+name: Sync Resume PDF
 
 on:
   push:
     paths:
-      - 'resume/resume_latex/resume1.pdf'
+      - 'resume_latex/resume1.pdf'
 
 jobs:
   update-pdf:
@@ -25,7 +25,7 @@ jobs:
 
       - name: Copy updated resume PDF
         run: |
-          cp resume/resume_latex/resume1.pdf website/files/resume1.pdf
+          cp -f resume/resume_latex/resume1.pdf website/files/resume1.pdf
 
       - name: Commit and push changes to pawankb13.github.io
         working-directory: website
