@@ -25,12 +25,12 @@ jobs:
         with:
           repository: pawankb13/pawankb13.github.io
           token: ${{ secrets.GH_TOKEN }}
-          path: pawankb13.github.io
+          path: website
 
       # Step 3: Copy updated resume1.pdf from 'resume' to 'pawankb13.github.io'
       - name: Copy resume1.pdf to GitHub Pages repository
         run: |
-          cp resume/resume_latex/resume1.pdf pawankb13.github.io/files/resume1.pdf
+          cp resume/resume_latex/resume1.pdf website/files/
 
       # Step 4: Commit and push changes to the 'pawankb13.github.io' repository
       - name: Commit and push changes
