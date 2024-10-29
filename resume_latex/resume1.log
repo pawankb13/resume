@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  29 OCT 2024 11:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  29 OCT 2024 13:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -522,6 +522,46 @@ LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inpu
  (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
+./sections/heading.tex:11: Missing $ inserted.
+<inserted text> 
+                $
+l.11 ...awankb13.github.io/}{pawankb13.github.io_}
+                                                  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./sections/heading.tex:11: Missing { inserted.
+<to be read again> 
+                   \endgroup 
+l.11 ...awankb13.github.io/}{pawankb13.github.io_}
+                                                  \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./sections/heading.tex:11: Missing } inserted.
+<inserted text> 
+                }
+l.11 ...awankb13.github.io/}{pawankb13.github.io_}
+                                                  \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./sections/heading.tex:11: Missing $ inserted.
+<inserted text> 
+                $
+l.11 ...awankb13.github.io/}{pawankb13.github.io_}
+                                                  \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
 ./sections/heading.tex:13: Missing $ inserted.
 <inserted text> 
                 $
@@ -628,7 +668,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  102i,9n,104p,498b,693s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resume1.pdf (4 pages, 122857 bytes).
+Output written on resume1.pdf (4 pages, 122863 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
