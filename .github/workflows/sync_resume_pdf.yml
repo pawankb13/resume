@@ -3,7 +3,7 @@ name: Update Resume
 on:
   push:
     paths:
-      - 'resume/pdf_latex/resume1.pdf'
+      - 'resume/resume_latex/resume1.pdf'
 
 jobs:
   update-pdf:
