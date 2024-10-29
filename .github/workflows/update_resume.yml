@@ -1,0 +1,37 @@
+name: Replace Resume PDF in GitHub Pages Repository
+
+on:
+  push:
+    paths:
+      - 'resume/resume_latex/resume1.pdf'
+
+jobs:
+  replace-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Resume Repository
+        uses: actions/checkout@v2
+        with:
+          repository: pawakb13/resume
+          path: resume-repo
+
+      - name: Checkout GitHub Pages Repository
+        uses: actions/checkout@v2
+        with:
+          repository: pawakb13/pawankb13.github.io
+          path: github-pages-repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Replace Resume PDF
+        run: |
+          cp resume-repo/resume/resume_latex/resume1.pdf github-pages-repo/files/resume1.pdf
+
+      - name: Commit and Push Changes
+        run: |
+          cd github-pages-repo
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add files/resume1.pdf
+          git commit -m "Replace resume1.pdf with updated version from resume repository"
+          git push origin master
