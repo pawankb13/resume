@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  29 OCT 2024 23:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  30 OCT 2024 23:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -565,7 +565,7 @@ Overfull \hbox (41.72163pt too wide) in alignment at lines 5--10
  []
 
 ) (./sections/skills.tex [3]) (./sections/interest.tex
-Underfull \hbox (badness 10000) in alignment at lines 5--12
+Underfull \hbox (badness 10000) in alignment at lines 5--11
 [][] 
  []
 
