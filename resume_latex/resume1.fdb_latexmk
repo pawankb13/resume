@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1730353547 "resume1.tex" "resume1.pdf" "resume1" 1730353548 2
+["pdflatex"] 1730791803 "resume1.tex" "resume1.pdf" "resume1" 1730791805 2
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -181,8 +181,8 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684611784 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1684611751 7883456 c63be5f282bce1cd006a22c9bb425fff ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "resume1.aux" 1730353548 2085 0815a072dc719a8f2d3ebcfc7898f82d "pdflatex"
-  "resume1.out" 1730353548 1498 cf3bbcd4cb75e4fc512625550e67c8bf "pdflatex"
+  "resume1.aux" 1730791804 2085 0815a072dc719a8f2d3ebcfc7898f82d "pdflatex"
+  "resume1.out" 1730791804 1498 cf3bbcd4cb75e4fc512625550e67c8bf "pdflatex"
   "resume1.tex" 1730311382 3563 434b94f7dca0134a4591a3deb4de81f4 ""
   "sections/acadservices.tex" 1730101792 998 18799daa53b3034706ee6b64a907d4af ""
   "sections/certifications.tex" 1730101792 972 3417a6972bb01fc87d7e2e747558e141 ""
@@ -192,8 +192,8 @@
   "sections/heading.tex" 1730226479 1164 fb83cc761a75cb1ddbc39a11d7221f07 ""
   "sections/honors.tex" 1730101792 3110 3d5cef4373f63989e3e533165ce62d5f ""
   "sections/interest.tex" 1730310710 899 7f45548ff24aa986d933321161bbfe4d ""
-  "sections/miscellaneous.tex" 1730101792 759 a6b4ed2d7ad8c3bc46a65aed7462abb9 ""
-  "sections/publications.tex" 1730192333 2173 cecf4f477b3087a3a1477a527bb53785 ""
+  "sections/miscellaneous.tex" 1730791803 731 c83c9ad276d594ac1e929c6947f63d7a ""
+  "sections/publications.tex" 1730791661 2182 6b1ab9ab39f56369f0c3c53944e860bc ""
   "sections/references.tex" 1730101792 1570 eafd4257a01fc2f07c40c02b9cf97908 ""
   "sections/responsibilities.tex" 1730101792 854 ff32b9535d708d6d27807abeefe0ab86 ""
   "sections/skills.tex" 1730310798 404 8652a149175dbcfeca46a8924aada6ba ""

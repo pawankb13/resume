@@ -908,6 +908,7 @@ INPUT ./sections/publications.tex
 INPUT sections/publications.tex
 INPUT ./sections/publications.tex
 INPUT sections/publications.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/palatino/pplbc7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
@@ -925,7 +926,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/palatino/pplbi7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplbi8r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
 INPUT ./sections/conference.tex
 INPUT sections/conference.tex
 INPUT ./sections/conference.tex
