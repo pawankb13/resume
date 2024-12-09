@@ -791,13 +791,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbol
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
-INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
-INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
-INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
-INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
-INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
-INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/palatino.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/palatino.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/palatino.sty
@@ -934,7 +927,6 @@ INPUT ./sections/workshops.tex
 INPUT sections/workshops.tex
 INPUT ./sections/workshops.tex
 INPUT sections/workshops.tex
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
@@ -970,10 +962,6 @@ INPUT ./sections/interest.tex
 INPUT sections/interest.tex
 INPUT ./sections/interest.tex
 INPUT sections/interest.tex
-INPUT ./sections/miscellaneous.tex
-INPUT sections/miscellaneous.tex
-INPUT ./sections/miscellaneous.tex
-INPUT sections/miscellaneous.tex
 INPUT ./sections/references.tex
 INPUT sections/references.tex
 INPUT ./sections/references.tex

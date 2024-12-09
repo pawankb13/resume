@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  9 DEC 2024 16:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  9 DEC 2024 20:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -441,8 +441,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \input
-           {glyphtounicode}
+l.21 
+     
 The package xcolor has already been loaded with options:
   []
 There has now been an attempt to load it with options
@@ -452,7 +452,7 @@ Adding the global options:
 to your \documentclass declaration may fix this.
 Try typing  <return>  to proceed.
 
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/palatino.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/palatino.sty
 Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 112.
@@ -533,45 +533,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 ) (./sections/experience.tex [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]) (./sections/publications.tex
-
-./sections/publications.tex:11: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...1007/s11205-024-03476-8}}\\ \vspace{2pt}\\
-                                                   \vspace{2pt}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Package xcolor Warning: Incompatible color definition on input line 12.
-
-
-Package xcolor Warning: Incompatible color definition on input line 14.
-
-
-Package xcolor Warning: Incompatible color definition on input line 16.
-
-
-Package xcolor Warning: Incompatible color definition on input line 25.
-
-
-Package xcolor Warning: Incompatible color definition on input line 27.
-
-
-Package xcolor Warning: Incompatible color definition on input line 29.
-
-
-Package xcolor Warning: Incompatible color definition on input line 31.
-
-
-Package xcolor Warning: Incompatible color definition on input line 33.
-
-) (./sections/conference.tex) (./sections/workshops.tex [2]) (./sections/acadservices.tex
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]) (./sections/publications.tex) (./sections/conference.tex) (./sections/workshops.tex [2]) (./sections/acadservices.tex
 Underfull \hbox (badness 10000) in alignment at lines 5--14
 [][] 
  []
@@ -590,28 +552,32 @@ Underfull \hbox (badness 10000) in alignment at lines 5--11
 [][] 
  []
 
-) (./sections/miscellaneous.tex
-Underfull \hbox (badness 10000) in alignment at lines 5--13
-[][] 
- []
+) (./sections/references.tex) [4] (./resume1.aux)
 
-) (./sections/references.tex [4]) [5] (./resume1.aux)
-Package rerunfilecheck Info: File `resume1.out' has not changed.
-(rerunfilecheck)             Checksum: CF3BBCD4CB75E4FC512625550E67C8BF;1498.
+Package rerunfilecheck Warning: File `resume1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume1.out':
+(rerunfilecheck)             Before: CF3BBCD4CB75E4FC512625550E67C8BF;1498
+(rerunfilecheck)             After:  AF208AF0905AD3ABCD1EBF96973731A9;1325.
  ) 
 Here is how much of TeX's memory you used:
- 22659 strings out of 476025
- 420345 string characters out of 5790017
+ 22647 strings out of 476025
+ 419976 string characters out of 5790017
  1877388 words of memory out of 5000000
- 42657 multiletter control sequences out of 15000+600000
- 528019 words of font info for 72 fonts, out of 8000000 for 9000
+ 42651 multiletter control sequences out of 15000+600000
+ 527592 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,9n,104p,475b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,9n,104p,475b,699s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{section.13} has been referenced but does not exist, replaced by a fixed one
+
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resume1.pdf (5 pages, 124307 bytes).
+Output written on resume1.pdf (4 pages, 124038 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 19 named destinations out of 1000 (max. 500000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
