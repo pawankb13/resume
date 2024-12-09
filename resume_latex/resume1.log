@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  9 DEC 2024 20:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.21)  9 DEC 2024 20:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -553,31 +553,22 @@ Underfull \hbox (badness 10000) in alignment at lines 5--11
  []
 
 ) (./sections/references.tex) [4] (./resume1.aux)
-
-Package rerunfilecheck Warning: File `resume1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume1.out':
-(rerunfilecheck)             Before: CF3BBCD4CB75E4FC512625550E67C8BF;1498
-(rerunfilecheck)             After:  AF208AF0905AD3ABCD1EBF96973731A9;1325.
+Package rerunfilecheck Info: File `resume1.out' has not changed.
+(rerunfilecheck)             Checksum: AF208AF0905AD3ABCD1EBF96973731A9;1325.
  ) 
 Here is how much of TeX's memory you used:
- 22647 strings out of 476025
- 419976 string characters out of 5790017
+ 22645 strings out of 476025
+ 419954 string characters out of 5790017
  1877388 words of memory out of 5000000
- 42651 multiletter control sequences out of 15000+600000
+ 42650 multiletter control sequences out of 15000+600000
  527592 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,9n,104p,475b,699s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section.13} has been referenced but does not exist, replaced by a fixed one
-
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resume1.pdf (4 pages, 124038 bytes).
+Output written on resume1.pdf (4 pages, 123945 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
