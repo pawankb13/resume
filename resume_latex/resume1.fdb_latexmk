@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740194196 "resume1.tex" "resume1.pdf" "resume1" 1740194197 0
+["pdflatex"] 1740194319 "resume1.tex" "resume1.pdf" "resume1" 1740194320 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -179,8 +179,8 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684611784 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1684611751 7883456 c63be5f282bce1cd006a22c9bb425fff ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "resume1.aux" 1740194197 1961 f0d94d3535f36b44665abd3c2b1dba5e "pdflatex"
-  "resume1.out" 1740194197 1325 af208af0905ad3abcd1ebf96973731a9 "pdflatex"
+  "resume1.aux" 1740194320 1961 f0d94d3535f36b44665abd3c2b1dba5e "pdflatex"
+  "resume1.out" 1740194320 1325 af208af0905ad3abcd1ebf96973731a9 "pdflatex"
   "resume1.tex" 1740194109 3544 2036436b4dfbd68c3d98010f46731385 ""
   "sections/acadservices.tex" 1730101792 998 18799daa53b3034706ee6b64a907d4af ""
   "sections/certifications.tex" 1730101792 972 3417a6972bb01fc87d7e2e747558e141 ""
@@ -190,7 +190,7 @@
   "sections/heading.tex" 1734171656 1165 893c6bece559e4325195282b68606fa8 ""
   "sections/honors.tex" 1733753751 2991 aa26cb92c25cad2166bc7f20cbc66c85 ""
   "sections/interest.tex" 1733755661 907 89e57151bfd5f6692e53f87a51011191 ""
-  "sections/publications.tex" 1740194196 2520 72c15d643ac3ec93e8b4710964586265 ""
+  "sections/publications.tex" 1740194319 2445 193e41207910059a1a86050d9b33cfb3 ""
   "sections/references.tex" 1733756084 1584 95a5ee0d6e48706e334ac5dab725744c ""
   "sections/responsibilities.tex" 1730101792 854 ff32b9535d708d6d27807abeefe0ab86 ""
   "sections/skills.tex" 1730310798 404 8652a149175dbcfeca46a8924aada6ba ""
