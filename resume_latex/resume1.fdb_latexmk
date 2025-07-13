@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1752382312 "resume1.tex" "resume1.pdf" "resume1" 1752382313 0
+["pdflatex"] 1752382633 "resume1.tex" "resume1.pdf" "resume1" 1752382635 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -179,15 +179,15 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684611784 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1684611751 7883456 c63be5f282bce1cd006a22c9bb425fff ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "resume1.aux" 1752382313 1961 2213723a2790a5ee1d79d8ab928398dc "pdflatex"
-  "resume1.out" 1752382313 1325 af208af0905ad3abcd1ebf96973731a9 "pdflatex"
+  "resume1.aux" 1752382634 1961 2213723a2790a5ee1d79d8ab928398dc "pdflatex"
+  "resume1.out" 1752382634 1325 af208af0905ad3abcd1ebf96973731a9 "pdflatex"
   "resume1.tex" 1740194109 3544 2036436b4dfbd68c3d98010f46731385 ""
   "sections/acadservices.tex" 1752381611 1233 36e37917901ef73fcbcdf1c7c9e7a067 ""
   "sections/certifications.tex" 1730101792 972 3417a6972bb01fc87d7e2e747558e141 ""
   "sections/conference.tex" 1752381763 2088 b08d0a562e8e525fd3d28770d5847797 ""
   "sections/education.tex" 1752380018 1942 dc1624ae46e3bb23b367a6014429dc83 ""
   "sections/experience.tex" 1752381904 3785 a0691dbd4bee86af6e9129276a34f33c ""
-  "sections/heading.tex" 1734171656 1165 893c6bece559e4325195282b68606fa8 ""
+  "sections/heading.tex" 1752382633 1259 7c6d60e37a966e89112a68f9eaa04548 ""
   "sections/honors.tex" 1752381567 2990 167ba6fa3b16677235ad1b6947ca9ecc ""
   "sections/interest.tex" 1733755661 907 89e57151bfd5f6692e53f87a51011191 ""
   "sections/publications.tex" 1752382312 2438 daae4de07c6534b7eb00185cce3b15f5 ""
