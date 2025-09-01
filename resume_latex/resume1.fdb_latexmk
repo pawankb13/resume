@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1756699847 "resume1.tex" "resume1.pdf" "resume1" 1756699848 0
+["pdflatex"] 1756700076 "resume1.tex" "resume1.pdf" "resume1" 1756700077 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -179,10 +179,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1684611784 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1684611751 7883456 c63be5f282bce1cd006a22c9bb425fff ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "resume1.aux" 1756699848 1973 6980ea99978fbb40fe3fc70e07058e98 "pdflatex"
-  "resume1.out" 1756699848 1389 50576ec2b8e800758f743be27a7c1b39 "pdflatex"
+  "resume1.aux" 1756700077 1973 6980ea99978fbb40fe3fc70e07058e98 "pdflatex"
+  "resume1.out" 1756700077 1389 50576ec2b8e800758f743be27a7c1b39 "pdflatex"
   "resume1.tex" 1756699175 3544 2036436b4dfbd68c3d98010f46731385 ""
-  "sections/acadservices.tex" 1756699708 1308 63a18a5f2520467ad5a63180637227d7 ""
+  "sections/acadservices.tex" 1756700076 1293 f8330aebf368e6654d1f9e6416b248b6 ""
   "sections/certifications.tex" 1730101792 972 3417a6972bb01fc87d7e2e747558e141 ""
   "sections/conference.tex" 1756699467 2088 df16a1efe7d9869f691dce32d646e25b ""
   "sections/education.tex" 1756699261 1942 069bf8a443a0a734e5eb73c020b04071 ""
